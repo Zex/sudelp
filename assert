@@ -1,0 +1,2 @@
+cat data0|python sudople.py>file
+#cat data1|python sudople.py
